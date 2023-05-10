@@ -4,7 +4,7 @@ View that responds to seasonal changes. <br>
 🌸☀️🍁❄️
 
 ## Supported Platforms
-- [ ] macOS menu bar
+- [ ] macOS
 - [ ] windows
 - [ ] iOS
 - [ ] iPad OS
