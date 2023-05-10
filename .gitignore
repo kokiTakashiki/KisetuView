@@ -104,6 +104,8 @@ iOSInjectionProject/
 Packages
 xcuserdata
 *.xcodeproj
+.swiftpm/config/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 
 
 ### Xcode ###
