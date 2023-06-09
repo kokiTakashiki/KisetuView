@@ -7,5 +7,6 @@ final class KisetuViewTests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
         XCTAssertEqual(KisetuView.text, "季節の知らせ✉️")
+        XCTAssertEqual(Kisetu.🌸.detail().astronomicalSeasonName.rawValue, "Spring")
     }
 }
